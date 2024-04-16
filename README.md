@@ -22,3 +22,5 @@ Segmentadores: Utilizei segmentadores para filtragem dinâmica e interatividade 
 
 Proteção de Planilha: Implementei proteção de planilha para salvaguardar a integridade da análise.
 
+![image](https://github.com/Rodriguessarah/Coffee_Shop_Sales/assets/123901141/83f96709-8245-4a57-b41e-929a4dc84db1)
+
